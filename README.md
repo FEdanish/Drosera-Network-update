@@ -79,7 +79,7 @@ docker compose logs -f
 
 ![image](https://github.com/user-attachments/assets/c4af432a-cb30-412a-abe4-0e5d0fd5f6ac)
 
-* After a few mintues, you'll get healthy logs:
+* After a 30 mintues, you'll get healthy logs:
 
 ![image](https://github.com/user-attachments/assets/418229a7-5462-46bd-b81f-a18996a3c822)
 
